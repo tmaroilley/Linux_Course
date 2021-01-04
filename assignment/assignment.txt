@@ -1,0 +1,7 @@
+This assignment will be part of your grade. It should be completed during the workshop. If not, please complete it and send it back before Wednesday, January the 6th - 9am.
+
+Follow the steps and answer the questions. 
+
+1/ Get the documents prepared for the workshop. They are available on GitHub at https://github.com/tmaroilley/Linux_Course. Unzip the archive if necessary.
+
+2/ Go to Linux_Course/data
