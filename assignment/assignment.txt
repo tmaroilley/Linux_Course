@@ -40,7 +40,7 @@ To get a full mark, add the code or command used to find the answer.
 13/ Compare data_sorted.txt and fifteen_lines.txt. Print only the common lines.
 	QUESTION #8: How many lines are only present in data_sorted.txt?
 
-14/ If mart_export.tsv, the fifth column in the chromosome on which the gene is mapped. 
+14/ In mart_export.tsv, the fifth column in the chromosome on which the gene is mapped. 
 	QUESTION #9: Using the option "-c" of the "uniq" command, how many genes are on chromosome 3? (Tip: uniq only worked properly if the data are sorted first)
 
 15/ Extract the lines containing information on genes for which the GC content is >50% (column #3), then select only the gene name, chromosom, start and end positions and gene description (colunms 2,5,6,7,8). Replace "[" and "]" by "_".
