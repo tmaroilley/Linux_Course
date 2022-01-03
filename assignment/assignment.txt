@@ -2,7 +2,15 @@ This assignment will be part of your grade. It should be completed during the wo
 
 Follow the steps and answer the questions. 
 
-To get a full mark, add the code or command used to find the answer. 
+To get a full mark:
+- answer the question
+- add the code or command used to find the answer
+- copy/paste or screenshot of the terminal when ask
+
+Tips:
+- Avoid creating unecessary temporary files (use | instead)
+- Always check that your command is actually doing what you expect (ex: if you want to sort a dataset, use "| head" to visualize the first lines and check that the data have been sorted correctly)
+- When using "awk", be careful about the delimiter between each element of each line - "awk" might not interpret the data the way you do, and use a different delimiter.
 
 
 1/ Get the documents prepared for the workshop. They are available on GitHub at https://github.com/tmaroilley/Linux_Course. Unzip the archive if necessary.
